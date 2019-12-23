@@ -102,3 +102,4 @@ prompt msg = do
 main :: IO ()
 main = startGame
 
+-- TODO look for draws
